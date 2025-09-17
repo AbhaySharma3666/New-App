@@ -146,17 +146,17 @@ Main dependencies are defined in `package.json`. Includes:
 ## 📸 Screenshots
 > Replace placeholders with your actual screenshots.
 
-| Screen | Description |
-|--------|-------------|
-| ![Splash Screen](screenshots/splash.png) | Splash UI of the app |
-| ![Home Screen](screenshots/home1.png) | Main UI of the app |
-| ![Home Screen](screenshots/home2.png) | Main UI of the app |
-| ![Feature Screen](screenshots/feature.png) | Example feature screen |
-| ![Feature Screen](screenshots/savescreen.png) | Save feature screen |
-| ![Feature Screen](screenshots/setting.png) | Setting feature screen |
+<p align="center">
+  <img src="screenshots/splash.png" alt="Home Screen" width="250" style="margin: 10px;"/>
+  <img src="screenshots/home1.png" alt="Feature Screen" width="250" style="margin: 10px;"/>
+  <img src="screenshots/home2.png" alt="Settings Screen" width="250" style="margin: 10px;"/>
+  <img src="screenshots/feature.png" alt="Settings Screen" width="250" style="margin: 10px;"/>
+  <img src="screenshots/savescreen.png" alt="Settings Screen" width="250" style="margin: 10px;"/>
+  <img src="screenshots/setting.png" alt="Settings Screen" width="250" style="margin: 10px;"/>
+</p>
 
 ---
-  
+
 ## 🤝 Contributing
 1. Fork this repo  
 2. Create a new branch (`git checkout -b feature-branch`)  
